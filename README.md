@@ -14,8 +14,8 @@ Upload the sketch to your Arduino.
 Open the Serial Monitor (115200 baud rate) to see the detected I2C addresses.
 This tool is useful for debugging (you dont debug on Uno)I2C connections and verifying that devices are properly connected. 
 
-for defeault(Arduino Uno)
-VCC to 5V or 3.3V
-GND to GND
-SCL to A5
-SDA to A4
+---for defeault(Arduino Uno)---
+-VCC to 5V or 3.3V
+-GND to GND
+-SCL to A5
+-SDA to A4
